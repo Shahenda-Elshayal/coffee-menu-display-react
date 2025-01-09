@@ -16,15 +16,7 @@ A modern and responsive web application that fetches coffee product data dynamic
 
 ## Demo 🖥️
 
-[Live Demo](#) _(Add a link to the hosted version of your app)_
-
----
-
-## Screenshots 📸
-
-_(Add screenshots of your app here)_  
-Example:  
-![Coffee Menu Screenshot](#)
+[Live Demo](#) _(https://funny-buttercream-379e60.netlify.app/)_
 
 ---
 
